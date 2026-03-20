@@ -38,3 +38,6 @@ Thumbs.db
 
 # Environment files
 .env
+
+# Sample data/reference files
+*.html

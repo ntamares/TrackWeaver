@@ -1,3 +1,5 @@
 module github.com/ntamares/TrackWeaver
 
-go 1.21.1
+go 1.25.0
+
+require golang.org/x/net v0.52.0
